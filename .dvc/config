@@ -2,3 +2,6 @@
     remote = dagshub
 ['remote "dagshub"']
     url = https://dagshub.com/TBKiet/sentiment-dvc-data.dvc
+    auth = basic
+    user = TBKiet
+    password = 1348005523a0021caaa5e041ca934046e87cacb2
